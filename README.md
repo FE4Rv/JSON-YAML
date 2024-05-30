@@ -1,4 +1,4 @@
-# JSON-YAML
+# JSON-YAML[^1]
 JSON test documentation
 
 ## ¿QUE ES JSON?
@@ -27,9 +27,9 @@ Pero esta no es su única función:
 + Su **gran** uso en casi todos los lados.
 
 ## Ejemplos de archivos JSON
-
-
+![Codigo JSON](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.info-computer.com%2Fblog%2Fcomo-abrir-los-archivos-json.html&psig=AOvVaw2W-2U9BXmvTOkdkl3fEe0t&ust=1717178613675000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD27Pv6tYYDFQAAAAAdAAAAABAE)
+![Diferencias entre JSON y XML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dongee.com%2Ftutoriales%2Fque-es-json%2F&psig=AOvVaw1rCl7Ll3HciLk_vZMsTGbm&ust=1717178617332000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwisvaT9-rWGAxX6h_0HHXZXDWIQjRx6BAgAEBU)
 
 
 [^1]: Documento formateado or BatmanFumon (FEAR).
-[^2]: El contenido de este texto esta extraido de internet y por lo tanto no me pertenece, mirar las referencias arriba.
+[^2]: El contenido de este texto esta extraido de internet y por lo tanto no me pertenece, todos los creditos a su autor.
