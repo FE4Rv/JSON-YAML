@@ -26,9 +26,30 @@ Pero esta no es su única función:
 + Para la **transferencia** de documentos.
 + Su **gran** uso en casi todos los lados.
 
-## Ejemplos de archivos JSON
-![Codigo JSON](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.info-computer.com%2Fblog%2Fcomo-abrir-los-archivos-json.html&psig=AOvVaw2W-2U9BXmvTOkdkl3fEe0t&ust=1717178613675000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD27Pv6tYYDFQAAAAAdAAAAABAE)
+>[!IMPORTANT]
+>Toda la informacion pertenece a [Maria Coppola](https://blog.hubspot.es/website/que-es-json).
+
+## ¿QUE ES YAML?
+
+**YAML** es un lenguaje de **serialización** de datos que las personas pueden comprender y suele utilizarse en el diseño de archivos de configuración.
+> [!NOTE]
+> Se utiliza para los datos, no para los documentos. 
+
+Es un lenguaje de programación popular porque está diseñado para que sea fácil de leer y entender. También se puede utilizar junto con otros lenguajes de programación. Gracias a la flexibilidad y la accesibilidad que caracterizan a YAML, ***Ansible®*** lo utiliza para crear procesos de automatización.
+
+## USOS
+Uno de los usos más comunes es la **creación de archivos de configuración**. Se recomienda utilizar YAML en lugar de ~~JSON~~ para escribir los archivos de configuración porque es un lenguaje más fácil de comprender, aunque ambos pueden usarse de manera indistinta en la mayoría de los casos.  
+Una de las **ventajas** de utilizarlo es que se pueden agregar los archivos a un control de versiones, como ***Github***, para rastrear y auditar los cambios.
+
+## Ejemplos de archivos JSON/YAML
+
+**Codigo en lenguaje JSON**
+
+![Codigo JSON](https://www.info-computer.com/modules/dbblog/views/img/post/como-abrir-los-archivos-json.png)
+
+**Diferencias entre JSON y XML**
 ![Diferencias entre JSON y XML](https://www.dongee.com/tutoriales/content/images/2022/11/image-62.png)
+
 
 
 [^1]: Documento formateado or BatmanFumon (FEAR).
