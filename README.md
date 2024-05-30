@@ -45,6 +45,9 @@ Es un lenguaje de programación popular porque está diseñado para que sea fác
 Uno de los usos más comunes es la **creación de archivos de configuración**. Se recomienda utilizar YAML en lugar de ~~JSON~~ para escribir los archivos de configuración porque es un lenguaje más fácil de comprender, aunque ambos pueden usarse de manera indistinta en la mayoría de los casos.  
 Una de las **ventajas** de utilizarlo es que se pueden agregar los archivos a un control de versiones, como ***Github***, para rastrear y auditar los cambios.
 
+>[!IMPORTANT]
+>Toda la informacion pertenece a [RedHat](https://www.redhat.com/es/topics/automation/what-is-yaml#usos-de-yaml)[^2].
+
 ## Ejemplos de archivos JSON/YAML
 
 **Codigo en lenguaje JSON**
@@ -54,7 +57,15 @@ Una de las **ventajas** de utilizarlo es que se pueden agregar los archivos a un
 **Diferencias entre JSON y XML**
 ![Diferencias entre JSON y XML](https://www.dongee.com/tutoriales/content/images/2022/11/image-62.png)
 
+**YAML vs PHP**
 
+![YAML vs PHP](https://www.info-computer.com/modules/dbblog/views/img/post/como-abrir-los-archivos-json.png)
+
+**Codigo en lenguaje YAML**
+![YAML](https://assets-global.website-files.com/62079796d02060552d362583/6435231c63ea2c5e86b3df31_1f7V1Risi5NiEJrtaVhlrvalBOVw4_wHwr_geu0Nn3nWC2QHEATmWHco3WBYDS5lbiKq_zC1tzgyhfm7EYiE-v99NYArXhp60JJ5iNRkJyPIBESpndAdg6PN5b0zTdIhRAKIoHWtMAQgknvDxxuU5ow.png)
+
+**JSON vs xml vs YAML**
+![YAML vs XML vs JSON](https://miro.medium.com/v2/resize:fit:718/1*KxHI2BbTo4ka44-2aiXK9A.png)
 
 [^1]: Documento formateado or BatmanFumon (FEAR).
 [^2]: El contenido de este texto esta extraido de internet y por lo tanto no me pertenece, todos los creditos a su autor.
