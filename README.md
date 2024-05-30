@@ -1,7 +1,9 @@
 # JSON-YAML[^1]
-JSON test documentation
 
-## ¿QUE ES JSON?
+- [QUE ES JSON](#1-QUE-ES-JSON)
+
+
+# 1. QUE ES JSON
 
 **JSON** es un formato de texto que forma parte del sistema de *JavaScript* y que se deriva de su sintaxis, pero no tiene como objetivo la creación de programas, sino ***el acceso, almacenamiento e intercambio de datos.*** Usualmente es conocido como una alternativa al lenguaje XML.
 La sintaxis de JSON funciona de modo similar a JavaScript. Por ejemplo:
@@ -27,7 +29,7 @@ Pero esta no es su única función:
 + Su **gran** uso en casi todos los lados.
 
 >[!IMPORTANT]
->Toda la informacion pertenece a [Maria Coppola](https://blog.hubspot.es/website/que-es-json).
+>Toda la informacion pertenece a [Maria Coppola](https://blog.hubspot.es/website/que-es-json)[^2].
 
 ## ¿QUE ES YAML?
 
