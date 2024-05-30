@@ -1,7 +1,7 @@
 # JSON-YAML[^1]
 
 - [QUE ES JSON](#1-QUE-ES-JSON)
-- [PARA QUE SIRVE UN ARCHIVO JSON](##2-Para-que-sirve-un-archivo-JSON)
+- [PARA QUE SIRVE UN ARCHIVO JSON](#2-Para-que-sirve-un-archivo-JSON)
 - [QUE ES YAML](#3-QUE-ES-YAML)
 
 
@@ -17,7 +17,7 @@ La sintaxis de JSON funciona de modo similar a JavaScript. Por ejemplo:
 
 Sin embargo, **JSON** se distingue de JavaScript porque sus claves tienen que ser strings (o secuencias de caracteres), mientras que sus valores deben ser strings, números, objetos, arreglos, boleados o null.
 
-## 2. Para qué sirve un archivo JSON
+# 2. Para qué sirve un archivo JSON
 
 Este lenguaje que almacena **información organizada**, con el fin de hacer más simple su búsqueda y acceso. La ventaja de este formato es que permite obtener código legible para las personas con nombres y valores que funcionan como indicadores de la información que contienen.
 
