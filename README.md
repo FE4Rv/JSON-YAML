@@ -28,7 +28,7 @@ Pero esta no es su única función:
 
 ## Ejemplos de archivos JSON
 ![Codigo JSON](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.info-computer.com%2Fblog%2Fcomo-abrir-los-archivos-json.html&psig=AOvVaw2W-2U9BXmvTOkdkl3fEe0t&ust=1717178613675000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD27Pv6tYYDFQAAAAAdAAAAABAE)
-![Diferencias entre JSON y XML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dongee.com%2Ftutoriales%2Fque-es-json%2F&psig=AOvVaw1rCl7Ll3HciLk_vZMsTGbm&ust=1717178617332000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwisvaT9-rWGAxX6h_0HHXZXDWIQjRx6BAgAEBU)
+![Diferencias entre JSON y XML](https://www.dongee.com/tutoriales/content/images/2022/11/image-62.png)
 
 
 [^1]: Documento formateado or BatmanFumon (FEAR).
