@@ -11,4 +11,25 @@ La sintaxis de JSON funciona de modo similar a JavaScript. Por ejemplo:
 + Las llaves agrupan objetos.
 + Los corchetes agrupan arreglos de datos.
 
-Sin embargo, JSON se distingue de JavaScript porque sus claves tienen que ser strings (o secuencias de caracteres), mientras que sus valores deben ser strings, números, objetos, arreglos, boleados o null.
+Sin embargo, **JSON** se distingue de JavaScript porque sus claves tienen que ser strings (o secuencias de caracteres), mientras que sus valores deben ser strings, números, objetos, arreglos, boleados o null.
+
+## ¿Para qué sirve un archivo JSON?
+
+Este lenguaje que almacena **información organizada**, con el fin de hacer más simple su búsqueda y acceso. La ventaja de este formato es que permite obtener código legible para las personas con nombres y valores que funcionan como indicadores de la información que contienen.
+
+### ¿Dónde se utiliza JSON?
+
+El caso más común de uso de **JSON** está en el diseño de sitios web. Al crear páginas en línea queremos asegurarnos de que el sitio lea correctamente la información contenida en el servidor y que la muestre de forma óptima.Además, es deseable que el programador pueda modificar el código durante la marcha para corregir errores.
+
+Pero esta no es su única función:
++ **Creación** de aplicaciones móviles y programas computacionales.
++ Para la **transferencia** de documentos.
++ Su **gran** uso en casi todos los lados.
+
+## Ejemplos de archivos JSON
+
+
+
+
+[^1]: Documento formateado or BatmanFumon (FEAR).
+[^2]: El contenido de este texto esta extraido de internet y por lo tanto no me pertenece, mirar las referencias arriba.
