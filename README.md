@@ -67,5 +67,5 @@ Una de las **ventajas** de utilizarlo es que se pueden agregar los archivos a un
 **JSON vs xml vs YAML**
 ![YAML vs XML vs JSON](https://miro.medium.com/v2/resize:fit:718/1*KxHI2BbTo4ka44-2aiXK9A.png)
 
-[^1]: Documento formateado or BatmanFumon (FEAR).
+[^1]: Documento formateado por BatmanFumon (FEAR).
 [^2]: El contenido de este texto esta extraido de internet y por lo tanto no me pertenece, todos los creditos a su autor.
