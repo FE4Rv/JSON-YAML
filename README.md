@@ -1,6 +1,8 @@
 # JSON-YAML
 JSON test documentation
-##¿QUE ES JSON?
+
+## ¿QUE ES JSON?
+
 **JSON** es un formato de texto que forma parte del sistema de *JavaScript* y que se deriva de su sintaxis, pero no tiene como objetivo la creación de programas, sino ***el acceso, almacenamiento e intercambio de datos.*** Usualmente es conocido como una alternativa al lenguaje XML.
 La sintaxis de JSON funciona de modo similar a JavaScript. Por ejemplo:
 
